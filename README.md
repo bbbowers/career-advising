@@ -40,7 +40,7 @@
         - Be relatively comfortable with the limitations and use cases of data structures
         - Be prepared to give some Big-O analyses
     - Be prepared to write some code or build a project live
-        - Practice using leetcode/codewars/kattis, or making a project from scratch with _No googling and No AI_
+        - Practice using [leetcode](https://www.leetcode.com)/[codewars](https://www.codewars.com)/[kattis](https://open.kattis.com)/[neetcode](https://neetcode.io/), or making a project from scratch with _No googling and No AI_
             - Bonus points if you only use notepad (NO IDE!)
         - Your solution doesn't have to be perfectly efficient (bonus points if it is) 
             - it needs to run, be correct, and you need to be able to talk someone through it in plain english
