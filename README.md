@@ -14,11 +14,11 @@
 - These will be talking points in conversation as well as opportunities for you to talk about the _hard stuff_ you've done in class
 - Choose your favorite ones to showcase on a webpage: you should know these inside and out and be ready for in-depth conversations around them
 ## Finding jobs (and internships)
-- Look for university hire programs
+- **Look for university hire programs**
     - Some companies will not consider your application if you apply through normal listings and they have a university program
 - Talk with friends and family
-- I like google's job search as it aggregates across sites
-    - I prefer applying directly through the company's website, I would expect these listings to be more up-to-date than other sources
+- Google's job search aggregates across sites
+    - I prefer applying directly through the company's website, I would expect these listings to be more up-to-date and checked more frequently than other sources
 - Be open to other job titles: our field is primarily driven by "software engineer" and its variants, but you might also consider:
     - Test engineer, operations engineer, technical product/program manager
 - If you go to a general career fair, you'll have to market yourself, so try these questions:
