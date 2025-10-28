@@ -14,10 +14,9 @@
     - These will be talking points in conversation as well as 
     - Choose your favorite ones to showcase on a webpage: you should know these inside and out and be ready for in-depth conversations around them
 ## Finding jobs (and internships)
-    - _Look for university hire programs_
+    - Look for university hire programs
         - Some companies will not consider your application if you apply through normal listings and they have a university program
     - Talk with friends and family
-        - Sometimes it's not what you know but who you know
     - There are a bunch of websites- I like google's job search as it aggregates across sites
     - If you go to a general career fair, you'll have to market yourself, so try these questions:
         - "Do you have jobs that are looking for <MY MAJOR HERE>?"
@@ -27,13 +26,13 @@
     - Spend your time wisely, while you can cast a wide net, it can be overwhelming and time-consuming
     - It's a bit of a waiting game
         - Some companies review resumes right away, other places send interview invitations en masse monthly or quarterly
-        - Send it and set a 2-4week reminder, try following up once via email and then move on
+        - Send your application and set a 2-4week reminder (or forget about it), try following up once via email and then move on
 
 ## Common topics for interviews
     - Know the job/company you're interviewing with
+        - Know their history, how do they originate, how have they been progressing, what do you think the next steps are?
         - Know their competitors
         - Know technologies that they are invested in or using
-        - Know their history, how do they originate, how have they been progressing, what do you think the next steps are?
     - If it's a larger company, _expect_ Algorithms and Data structures questions
         - Be relatively comfortable with the limitations and use cases of data structures
         - Be prepared to give some Big-O analyses
@@ -48,6 +47,7 @@
     - Work with the Career Center
     - Bring your portfolio so that you can talk about those projects and put them in your resume
     - Tailor your resume for the job you're applying to
+    - Get friends and family to look at your resume
 
 ## Graduate School
     - If you have senioritis, don't hurt yourself with more school.
