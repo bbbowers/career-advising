@@ -64,3 +64,10 @@
     - More school!
 - If you want to work at a competitive company that does specialized or research work
     - More school!
+ 
+## Previous Berry Grads
+<img width="366" height="208" alt="image" src="https://github.com/user-attachments/assets/2ff8f9fa-39aa-4ea4-8015-8d34c7a09cb0" />
+<img width="477" height="577" alt="image" src="https://github.com/user-attachments/assets/cd923b3e-565e-4d68-8cb3-6c492430c896" />
+<img width="431" height="282" alt="image" src="https://github.com/user-attachments/assets/168cc7b7-54ae-4f0f-bc3b-c59a816c25e1" />
+
+
