@@ -1,23 +1,26 @@
-# career-advising
+# Career Advising
 ## Find your niche
     - There are a bunch of jobs out there, and it can be overwhelming considering them all
     - Additionally, doing something you hate is a good way to burn out
     - But doing something you love could buy you a few more years of work
-        - Figure out what you enjoy and don't enjoy (this can change over time!)
+    - Figure out what you enjoy and don't enjoy (this can change over time!)
         - Find causes that you care about, and look for jobs within/around those causes
         - Take a variety of classes, get interested, do projects outside of class
-    - Picking somewhere you want to live can help filter opportunities
-        - If you want to live in Maine, narrow your search to Maine jobs!
+    - Picking somewhere you want to live can help you find that niche too
+        - If you want to live in Maine, narrow your search to Maine jobs/careers!
 ## Portfolio building
     - Hold onto all of your projects and keep them in a centralized location
         - Keep your in-class and personal projects in a place you can find them easily!
-    - These will be talking points in conversation as well as 
+    - These will be talking points in conversation as well as opportunities for you to talk about the _hard stuff_ you've done in class
     - Choose your favorite ones to showcase on a webpage: you should know these inside and out and be ready for in-depth conversations around them
 ## Finding jobs (and internships)
     - Look for university hire programs
         - Some companies will not consider your application if you apply through normal listings and they have a university program
     - Talk with friends and family
-    - There are a bunch of websites- I like google's job search as it aggregates across sites
+    - I like google's job search as it aggregates across sites
+        - I prefer applying directly through the company's website, I would expect these listings to be more up-to-date than other sources
+    - Be open to other job titles: our field is primarily driven by "software engineer" and its variants, but you might also consider:
+        - Test engineer, operations engineer, technical product/program manager
     - If you go to a general career fair, you'll have to market yourself, so try these questions:
         - "Do you have jobs that are looking for <MY MAJOR HERE>?"
         - "Do you have projects or work that need technical support?"
