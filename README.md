@@ -47,7 +47,8 @@
 - Curate your portfolio for the position, if it's a web dev position, put your web projects front and center.
 
 ## Resume-building
-- Work with the Career Center
+- Work with the [Career Center](https://berry.edu/ppd/)
+    - In addition to resume help, they host networking events and career fairs, and provide interview rooms 
 - Bring your portfolio so that you can talk about those projects and put them in your resume
 - Tailor your resume for the job you're applying to
 - Get friends and family to look at your resume
@@ -64,6 +65,14 @@
     - More school!
 - If you want to work at a competitive company that does specialized or research work
     - More school!
+
+## Networking and Letters of Recommendation
+- Networking is hard.
+    - However, set up your LinkedIn, keep it relatively up-to-date, and, after a nice conversation, ask if someone wants to connect on LinkedIn.
+- Similarly, asking for Letters of Recommendation can be hard
+- If you do good work in and out of class, you should feel free to ask your supervisor or professor- they recognize it as part of their job
+    - For professors, it pays dividends to do research/teaching assistantships
+- Go to work functions, be polite, introduce yourself to everyone, and a little gratitude can go a long way.
  
 ## Previous Berry Grads
 <img width="431" height="282" alt="image" src="https://github.com/user-attachments/assets/168cc7b7-54ae-4f0f-bc3b-c59a816c25e1" />
